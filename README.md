@@ -9,7 +9,9 @@ I lead data platforms at Salesforce/Heroku and believe in learning in public —
 - Advanced PostgreSQL: query planning, indexing, partitioning, pgvector  
 - Streaming & real-time processing with Kafka / Redpanda + Apache Flink  
 - Production LLM use: vector search, RAG pipelines, model serving  
-- Observability & performance: tracing, metrics, tuning at scale  
+- Observability & performance: tracing, metrics, tuning at scale
+- Autonomous agents: designing and deploying with AI agents and best practices for agent lifecycle & prompt grounding
+
 
 ## 🛠️ Projects I'm Building
 
