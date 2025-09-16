@@ -51,11 +51,18 @@ I lead data platforms at Salesforce/Heroku and believe in learning in public —
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft-Azure-0078D4?logo=microsoftazure&logoColor=white" />
   <img alt="Google Cloud (learning)" src="https://img.shields.io/badge/Google-Cloud-4285F4?logo=googlecloud&logoColor=white" />
 
-  <!-- Language -->
+  <!-- Language / Scripting / Data Science -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
+  <img alt="JupyterLab" src="https://img.shields.io/badge/Jupyter-Lab-F37626?logo=jupyter&logoColor=white" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google-Colab-DD0031?logo=googlecolab&logoColor=white" />
 
-  <!-- Tools / Infra -->
+  <!-- AI / Model / LLM Tools -->
+  <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FF6E28?logo=huggingface&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white" />
+
+  <!-- Orchestration / Infra -->
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" />
 </p>
 
