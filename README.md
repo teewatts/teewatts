@@ -30,16 +30,32 @@ I lead data platforms at Salesforce/Heroku and believe in learning in public —
 - Share knowledge: reviews, documentation, public notes  
 - Impact via measurable outcomes  
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Use & Explore
 
 <p>
+  <!-- Relational / Analytics DBs -->
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL-Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+
+  <!-- NoSQL / Document / Key-Value DBs -->
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="DynamoDB" src="https://img.shields.io/badge/Amazon-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
+
+  <!-- Vector / Modern DB Features -->
+  <img alt="pgvector" src="https://img.shields.io/badge/pgvector-PostgreSQL-009900?logo=postgresql&logoColor=white" />
+
+  <!-- Cloud / Platforms -->
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft-Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img alt="Google Cloud (learning)" src="https://img.shields.io/badge/Google-Cloud-4285F4?logo=googlecloud&logoColor=white" />
+
+  <!-- Language -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
+
+  <!-- Tools / Infra -->
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" />
 </p>
 
